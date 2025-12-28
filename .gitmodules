@@ -1,0 +1,12 @@
+[submodule "handedness"]
+	path = handedness
+	url = https://github.com/dyoung1224/Daphnia_Handedness_Analysis.git
+[submodule "rotational_dynamics"]
+	path = rotational_dynamics
+	url = https://github.com/dyoung1224/Daphnia_Rotational_Dynamics_Analysis.git
+[submodule "displacement"]
+	path = displacement
+	url = https://github.com/dyoung1224/Daphnia_Displacement_Analysis.git
+[submodule "trex_tools"]
+	path = trex_tools
+	url = https://github.com/dyoung1224/TREX-npz-csv-converter.git
